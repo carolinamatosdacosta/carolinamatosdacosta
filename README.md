@@ -26,21 +26,13 @@ JS
 
 •———————————————————————— ✧ ——————————————————————————•
 
-![https://br.pinterest.com/Carolinhay/](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white
+![https://br.pinterest.com/Carolinhay/](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white](https://www.linkedin.com/in/monicamhillman/)
 ) 
-![https://www.tiktok.com/@cappuuh](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 ) 
-![https://open.spotify.com/user/ld1x8ri0ngie4csrf7scvjtv5?si=494fc81ede9144f2](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![https://www.twitch.tv/cappuuh](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) 
-![https://twitter.com/Cappuuh](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+![https://twitter.com/Cappuuh](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://www.linkedin.com/in/monicamhillman/)
 )
 
-![a](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-![pipi](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![aa](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
-![aaaaa](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
-![b](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-![a](https://media.discordapp.net/attachments/734728994842345545/1103746874793529424/37_Sem_Titulo_20230221174551.png)
 
 •———————————————————————— ✧ ——————————————————————————•
 
