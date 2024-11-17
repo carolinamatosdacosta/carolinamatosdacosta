@@ -16,22 +16,15 @@ JS
 
 ☆ 17 Anos
 
-☆ Perco tempo assistindo live
-
 ☆ Designer Digital
 
 ☆ Editora 
 
-☆ And more!
+☆ Programadora (Iniciante)
 
+☆ Estudando Js,C#,CSS
 •———————————————————————— ✧ ——————————————————————————•
 
-![https://br.pinterest.com/Carolinhay/](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white](https://www.linkedin.com/in/monicamhillman/)
-) 
-) 
-![https://www.twitch.tv/cappuuh](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) 
-![https://twitter.com/Cappuuh](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://www.linkedin.com/in/monicamhillman/)
-)
 
 
 •———————————————————————— ✧ ——————————————————————————•
