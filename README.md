@@ -11,5 +11,5 @@ Construindo meu portfólio
 
 ![texto-alternativo](https://i.pinimg.com/736x/8c/cf/7f/8ccf7f875274f25b7845aa9731ae2df4.jpg)
 
-![eita](https://media.discordapp.net/attachments/734728994842345545/1269428048634187867/rp3w5k.png?ex=673b1cbf&is=6739cb3f&hm=bedadf7435ffff8551f4ede6df73f59397e030d9cfa255e1b7dd2afa93b4f961&=&format=webp&quality=lossless)
+![eita](https://media.discordapp.net/attachments/734728994842345545/1205143567773990942/Tumblr_l_145818763159442.gif?ex=673b4169&is=6739efe9&hm=fbce4a11e2a30adde02b863cb8d4d1c3da26dbe8a99fc047f81092a9ec2cf138&=)
 
