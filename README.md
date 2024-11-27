@@ -5,10 +5,9 @@
 
 Desenvolvedora em formação.
 Estudante de programação, aprendendo 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white), ![crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white
-), ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-) e ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-).
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 Construindo meu portfólio
 
 ![eita](https://media.discordapp.net/attachments/734728994842345545/1207065306447609936/tumblr_6332acd5cf08f5720668fc666694b47c_61c7d42a_640.png?ex=673ba7ab&is=673a562b&hm=327b8ba9578cc5d498e05836ed664f4f225104931443b00253d2f33c2a614312&=&format=webp&quality=lossless)
