@@ -4,7 +4,9 @@
 ![eit2](https://media.discordapp.net/attachments/734728994842345545/1269428122202279947/k3lqdl.png?ex=673b1cd1&is=6739cb51&hm=10ebbac01d8fc0c687d2856838bcfa1713cbfb3e21ed437dd85d0c9f511f9bfd&=&format=webp&quality=lossless)
 
 Desenvolvedora em formação.
-Estudante de programação, aprendendo ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white), Java, Python e ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+Estudante de programação, aprendendo ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white), ![crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white
+), ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+) e ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 ).
 Construindo meu portfólio
 
