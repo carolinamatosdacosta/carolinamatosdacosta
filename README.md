@@ -6,7 +6,7 @@
 Desenvolvedora em formação.
 Estudante de programação, aprendendo...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,js,lua)](https://skillicons.dev)
 
 Construindo meu portfólio
 
