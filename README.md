@@ -8,7 +8,6 @@ Estudante de programação, aprendendo...
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-
 Construindo meu portfólio
 
 ![eita](https://media.discordapp.net/attachments/734728994842345545/1207065306447609936/tumblr_6332acd5cf08f5720668fc666694b47c_61c7d42a_640.png?ex=673ba7ab&is=673a562b&hm=327b8ba9578cc5d498e05836ed664f4f225104931443b00253d2f33c2a614312&=&format=webp&quality=lossless)
