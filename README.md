@@ -9,7 +9,7 @@
 ## 🚀 Habilidades & Tecnologias  
 
 ### 🖥️ Linguagens de Programação  
-🔹 Python | C# | SQL  
+🔹 Python | SQL  
 
 ### 🛠️ Ferramentas & Frameworks  
 🔹 Unity | Godot | MySQL | SQLite  
