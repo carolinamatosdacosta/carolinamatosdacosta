@@ -32,8 +32,6 @@
 
 ## 📬 Entre em Contato!  
 
-📧 **E-mail:** cappuh@email.com  
-🌎 **LinkedIn:** [linkedin.com/in/cappuh](https://linkedin.com/in/cappuh)  
-🐱 **GitHub:** [github.com/cappuh](https://github.com/cappuh)  
+📧 **E-mail:** c.dfoxgg@gmail.com
 
 > ✨ "Transformando código em experiências criativas!" ✨  
