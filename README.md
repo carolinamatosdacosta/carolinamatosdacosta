@@ -1,27 +1,39 @@
+# 🌸 Olá, sou a Cappuh! 🌸  
 
-### 🌸 Olá, sou a Cappuh! 🌸
-💻 Estudante apaixonada por Tecnologia e Design | 🎮 Focada em Desenvolvimento e Bancos de Dados
+💻 **Estudante de Tecnologia e Design** | 🎮 **Fascinada por Programação, Jogos e Bancos de Dados**  
 
-Sempre explorando novas tecnologias, busco unir criatividade e lógica em projetos que envolvem programação, design e jogos. Atualmente, estou aprofundando meus conhecimentos em SQL e desenvolvimento web, além de criar experiências interativas através do código.
+✨ Apaixonada por tecnologia, sempre explorando **programação, design e desenvolvimento de jogos**. Atualmente estudando **SQL, Python e C#**, com interesse em **desenvolvimento web e banco de dados**. Busco criar soluções inovadoras e interfaces bonitas, equilibrando **criatividade e lógica**!  
 
-🚀 Habilidades & Tecnologias
-🌱 Atualmente estudando e aprimorando:
+---
 
-Banco de Dados: SQL (MySQL, SQLite)
-Linguagens: Python | C#
-Web: HTML | CSS | JavaScript
-Desenvolvimento de Jogos: Unity | Godot
-🎨 Além da programação, também me interesso por UX/UI Design, sempre buscando interfaces bonitas e funcionais.
+## 🚀 Habilidades & Tecnologias  
 
-✨ Projetos & Contribuições
-🔹 Jogo inspirado no evento Florescer Espiritual (LoL)
-🔹 Site de Química interativo
+### 🖥️ Linguagens de Programação  
+🔹 Python | C# | SQL  
 
-Estou sempre trabalhando em novas ideias e projetos, explorando o equilíbrio entre tecnologia e criatividade.
+### 🛠️ Ferramentas & Frameworks  
+🔹 Unity | Godot | MySQL | SQLite  
 
-📬 Entre em contato comigo!
-📧 E-mail: cappuh@email.com
-🌎 LinkedIn: linkedin.com/in/cappuh
-🐱 GitHub: github.com/cappuh
+### 🎨 Web & Design  
+🔹 HTML | CSS | JavaScript | UX/UI  
 
-✨ "A tecnologia é uma arte que transforma ideias em realidade." ✨
+🌿 **Atualmente estudando:** SQL e Desenvolvimento Web  
+
+---
+
+## ✨ Projetos & Contribuições  
+
+📌 **[Jogo inspirado no evento Florescer Espiritual (LoL)](https://github.com/cappuh/meu-jogo)**  
+📌 **[Site de Química interativo](https://github.com/cappuh/site-quimica)**  
+
+🔎 Sempre explorando **novas ideias e tecnologias** para criar projetos inovadores!  
+
+---
+
+## 📬 Entre em Contato!  
+
+📧 **E-mail:** cappuh@email.com  
+🌎 **LinkedIn:** [linkedin.com/in/cappuh](https://linkedin.com/in/cappuh)  
+🐱 **GitHub:** [github.com/cappuh](https://github.com/cappuh)  
+
+> ✨ "Transformando código em experiências criativas!" ✨  
