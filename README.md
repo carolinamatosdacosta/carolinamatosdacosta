@@ -23,8 +23,8 @@
 
 ## ✨ Projetos & Contribuições  
 
-📌 **[Jogo inspirado no evento Florescer Espiritual (LoL)](https://github.com/cappuh/meu-jogo)**  
-📌 **[Site de Química interativo](https://github.com/cappuh/site-quimica)**  
+📌 
+📌 
 
 🔎 Sempre explorando **novas ideias e tecnologias** para criar projetos inovadores!  
 
