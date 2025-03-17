@@ -1,4 +1,4 @@
-# 🌸 Olá, sou a Cappuh! 🌸  
+# 🌸 Olá, sou a Carolina! 🌸  
 
 💻 **Estudante de Tecnologia e Design** | 🎮 **Fascinada por Programação, Jogos e Bancos de Dados**  
 
