@@ -21,11 +21,6 @@
 
 ---
 
-## ✨ Projetos & Contribuições  
-
-📌 
-📌 
-
 🔎 Sempre explorando **novas ideias e tecnologias** para criar projetos inovadores!  
 
 ---
