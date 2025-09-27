@@ -25,8 +25,4 @@
 
 ---
 
-## 📬 Entre em Contato!  
-
-📧 **E-mail:** c.dfoxgg@gmail.com
-
 > ✨ "Transformando código em experiências criativas!" ✨  
