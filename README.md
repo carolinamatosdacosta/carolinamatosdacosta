@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Olá, sou a Carolina! 🌸</h1>
 
 <p align="center">
-  <img src="LINK_DIRETO_DA_IMAGEM" width="720">
+  <img src="https://i.ibb.co/TBLGqW2y/image.png" width="720">
 </p>
 
 <p align="center">
