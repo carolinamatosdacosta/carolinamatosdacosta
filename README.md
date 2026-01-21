@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/hjv2LJS/image.png" width="720" height="80">
+  <img src="https://i.ibb.co/DPjBNFBF/image.png" width="720" height="180">
 </p>
 
 <p align="center">
