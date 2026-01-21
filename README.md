@@ -56,12 +56,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=carolinamatosdacosta&theme=tokyonight&hide_border=true">
+  <img src="https://i.ibb.co/MydMRKx0/image.png" width="1100">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/MydMRKx0/image.png" width="1100">
-</p>
+  <img src="https://i.ibb.co/hjv2LJS/image.png" width="1100">
+</p> 
 
 <p align="center">
   ✨ <em>"Transformando código em experiências criativas."</em> ✨
