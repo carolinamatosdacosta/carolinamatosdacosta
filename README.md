@@ -60,8 +60,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/hjv2LJS/image.png" width="720">
-</p> 
+  <img src="https://i.ibb.co/hjv2LJS/image.png" width="720" height="120">
+</p>
 
 <p align="center">
   ✨ <em>"Transformando código em experiências criativas."</em> ✨
