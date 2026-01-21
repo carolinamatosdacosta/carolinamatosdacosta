@@ -25,13 +25,19 @@
 - SQL  
 - C#  
 
+﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒
+
 ### 🎮 Jogos & Engines
 - Unity  
 - Godot  
 
+﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒
+
 ### 🗄️ Banco de Dados
 - MySQL  
-- SQLite  
+- SQLite
+  
+﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒₊﹒
 
 ### 🎨 Web & Design
 - HTML  
