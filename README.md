@@ -1,6 +1,6 @@
 # 🌸 Olá, sou a Carolina! 🌸  
 
-![preview](https://media.discordapp.net/attachments/1379232106051272845/1429812909575245864/7d9c2d7be4cd34fdede514eb8bb57ce7e8756fcb.png)
+![preview](https://ibb.co/svH4JWR7)
 
 💻 **Estudante de Tecnologia e Design** | 🎮 **Fascinada por Programação, Jogos e Bancos de Dados**  
 
