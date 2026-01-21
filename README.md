@@ -57,14 +57,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolinamatosdacosta&theme=dracula&no-frame=true&row=1">
-</p>
-
----
-
 <p align="center">
   ✨ <em>"Transformando código em experiências criativas."</em> ✨
 </p>
