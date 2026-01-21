@@ -48,11 +48,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinamatosdacosta&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=carolinamatosdacosta&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&row=1">
+  <img src="https://github-profile-trophy.vercel.app/?username=carolinamatosdacosta&theme=dracula&no-frame=true&row=1">
 </p>
 
 ---
