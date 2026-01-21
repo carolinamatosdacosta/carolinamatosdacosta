@@ -1,30 +1,70 @@
-# 🌸 Olá, sou a Carolina! 🌸  
+<h1 align="center">🌸 Olá, sou a Carolina! 🌸</h1>
 
-![preview](https://ibb.co/svH4JWR7)
+<p align="center">
+  <img src="LINK_DIRETO_DA_IMAGEM" width="720">
+</p>
 
-💻 **Estudante de Tecnologia e Design** | 🎮 **Fascinada por Programação, Jogos e Bancos de Dados**  
+<p align="center">
+  💻 <strong>Estudante de Tecnologia e Design</strong> • 🎮 <strong>Fascinada por Programação, Jogos e Bancos de Dados</strong>
+</p>
 
-✨ Apaixonada por tecnologia, sempre explorando **programação, design e desenvolvimento de jogos**. Atualmente estudando **SQL, Python e C#**, com interesse em **desenvolvimento web e banco de dados**. Busco criar soluções inovadoras e interfaces bonitas, equilibrando **criatividade e lógica**!  
+<p align="center">
+  ✨ Apaixonada por tecnologia, sempre explorando <strong>programação, design e desenvolvimento de jogos</strong>.<br>
+  Atualmente estudando <strong>SQL, Python e C#</strong>, com interesse em <strong>desenvolvimento web</strong> e <strong>banco de dados</strong>.<br>
+  Busco criar soluções inovadoras e interfaces bonitas, equilibrando <strong>criatividade e lógica</strong>.
+</p>
 
 ---
 
-## 🚀 Habilidades & Tecnologias  
+## 🛠️ Habilidades & Tecnologias
 
-### 🖥️ Linguagens de Programação  
-🔹 Python | SQL  
+### 🖥️ Linguagens
+- Python  
+- SQL  
+- C#  
 
-### 🛠️ Ferramentas & Frameworks  
-🔹 Unity | Godot | MySQL | SQLite  
+### 🎮 Jogos & Engines
+- Unity  
+- Godot  
 
-### 🎨 Web & Design  
-🔹 HTML | CSS | JavaScript | UX/UI  
+### 🗄️ Banco de Dados
+- MySQL  
+- SQLite  
+
+### 🎨 Web & Design
+- HTML  
+- CSS  
+- JavaScript  
+- UX / UI  
 
 🌿 **Atualmente estudando:** SQL e Desenvolvimento Web  
 
 ---
 
-🔎 Sempre explorando **novas ideias e tecnologias** para criar projetos inovadores!  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
-> ✨ "Transformando código em experiências criativas!" ✨  
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&row=1">
+</p>
+
+---
+
+<p align="center">
+  ✨ <em>"Transformando código em experiências criativas."</em> ✨
+</p>
